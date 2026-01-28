@@ -26,7 +26,7 @@ const cases = [
 
 export default function CaseStudies() {
   return (
-    <section id="case-studies" className="py-24 px-6">
+    <section id="case-studies" className="py-16 md:py-24 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
@@ -59,7 +59,7 @@ export default function CaseStudies() {
                   {item.industry}
                 </span>
               </div>
-              <h3 className="text-xl font-bold mb-4 text-gray-800">
+              <h3 className="text-xl font-semibold mb-4 text-gray-800">
                 {item.client}
               </h3>
               <div className="space-y-4">

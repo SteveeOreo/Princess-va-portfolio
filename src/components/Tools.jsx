@@ -17,7 +17,7 @@ const tools = [
 
 export default function Tools() {
   return (
-    <section id="tools" className="py-24 px-6 bg-white/50">
+    <section id="tools" className="py-16 md:py-24 px-4 sm:px-6 bg-white/50">
       <div className="max-w-6xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}

@@ -35,7 +35,7 @@ const services = [
 
 export default function Services() {
   return (
-    <section id="services" className="py-24 px-6 bg-white/50">
+    <section id="services" className="py-16 md:py-24 px-4 sm:px-6 bg-white/50">
       <div className="max-w-6xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
@@ -64,7 +64,7 @@ export default function Services() {
               className="bg-white p-8 rounded-2xl shadow-md hover:shadow-xl transform hover:scale-105 transition-all duration-300 border border-rose-100"
             >
               <div className="text-5xl mb-4">{service.icon}</div>
-              <h3 className="text-xl font-bold mb-3 text-gray-800">
+              <h3 className="text-xl font-semibold mb-3 text-gray-800">
                 {service.title}
               </h3>
               <p className="text-gray-600 leading-relaxed">

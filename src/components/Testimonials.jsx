@@ -23,7 +23,7 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <section id="testimonials" className="py-24 px-6">
+    <section id="testimonials" className="py-16 md:py-24 px-4 sm:px-6">
       <div className="max-w-6xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
@@ -60,8 +60,8 @@ export default function Testimonials() {
                 "{testimonial.quote}"
               </p>
               <div className="border-t border-rose-200 pt-4">
-                <p className="font-bold text-gray-800">{testimonial.author}</p>
-                <p className="text-sm text-rose-600">{testimonial.role}</p>
+                <p className="font-semibold text-gray-800">{testimonial.author}</p>
+                <p className="text-sm font-medium text-rose-600">{testimonial.role}</p>
               </div>
             </motion.div>
           ))}

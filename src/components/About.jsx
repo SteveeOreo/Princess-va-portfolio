@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function About() {
   return (
-    <section id="about" className="py-24 px-6">
+    <section id="about" className="py-16 md:py-24 px-4 sm:px-6">
       <div className="max-w-5xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
@@ -25,7 +25,7 @@ export default function About() {
             className="space-y-6"
           >
             <p className="text-lg text-gray-700 leading-relaxed">
-              Hello! I'm <span className="font-semibold text-rose-600">Princess</span>, a dedicated and 
+              Hello! I'm <span className="font-semibold text-rose-600">Princess Ekwueme</span>, a dedicated and 
               detail-oriented virtual assistant with a passion for helping professionals and entrepreneurs 
               achieve their goals through exceptional administrative support.
             </p>
@@ -48,7 +48,7 @@ export default function About() {
             transition={{ duration: 0.6 }}
             className="bg-gradient-to-br from-rose-100 to-lavender-100 rounded-2xl p-8 shadow-lg"
           >
-            <h3 className="text-2xl font-bold mb-6 text-gray-800">What I Bring</h3>
+            <h3 className="text-2xl font-semibold mb-6 text-gray-800">What I Bring</h3>
             <ul className="space-y-4">
               {[
                 "✨ Exceptional attention to detail",
