@@ -59,7 +59,7 @@ export default function Navigation() {
               className="text-xl md:text-2xl font-bold gradient-text tracking-tight"
               onClick={() => handleNavClick("#")}
             >
-              Princess Ekwueme
+             👑 👑 👑
             </a>
 
             {/* Desktop Navigation */}
