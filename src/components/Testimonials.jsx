@@ -2,23 +2,12 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    quote: "Princess has been an absolute game-changer for my business. Her attention to detail and warm professionalism make every interaction a pleasure. I've gained so much time back in my day!",
-    author: "Sarah M.",
-    role: "E-commerce Entrepreneur",
+    quote: "Princess Ekwueme proved to be a multi-talented Executive Virtual Assistant, handling administrative coordination, operational support, and content drafting with ease. She organized workflows, followed up with stakeholders, and drafted emails and visual materials. Her versatility and proactive attitude make her an asset to any team.",
+    author: "Bawo Stephanie Ede",
+    role: "Founder & Executive Director",
     rating: 5
   },
-  {
-    quote: "Working with Princess feels like having a trusted partner by my side. She anticipates my needs and handles everything with such care and efficiency. Highly recommend!",
-    author: "Jessica L.",
-    role: "Wellness Coach",
-    rating: 5
-  },
-  {
-    quote: "Princess transformed my chaotic schedule into a well-oiled machine. Her organizational skills are incredible, and she brings such positive energy to everything she does.",
-    author: "Amanda K.",
-    role: "Creative Agency Owner",
-    rating: 5
-  }
+
 ];
 
 export default function Testimonials() {

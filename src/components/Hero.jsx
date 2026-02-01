@@ -94,7 +94,7 @@ export default function Hero() {
               transition={{ delay: 0.5, duration: 0.6 }}
               className="text-xl sm:text-2xl md:text-3xl text-gray-700 mb-6 font-semibold"
             >
-              Professional Virtual Assistant
+             EXECUTIVE VIRTUAL ASSISTANT & SOCIAL MEDIA MANAGER
             </motion.h2>
             
             <motion.p
@@ -103,8 +103,8 @@ export default function Hero() {
               transition={{ delay: 0.7, duration: 0.6 }}
               className="text-base sm:text-lg md:text-xl text-gray-600 mb-10 leading-relaxed"
             >
-              Empowering busy professionals and entrepreneurs with seamless administrative support, 
-              creative solutions, and personalized service that lets you focus on what matters most.
+             Executive-level virtual support that protects your time, streamlines operations,
+              and maintains a consistent, professional brand presence, without micromanagement.
             </motion.p>
 
             <motion.div

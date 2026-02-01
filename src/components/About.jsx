@@ -25,19 +25,17 @@ export default function About() {
             className="space-y-6"
           >
             <p className="text-lg text-gray-700 leading-relaxed">
-              Hello! I'm <span className="font-semibold text-rose-600">Princess Ekwueme</span>, a dedicated and 
-              detail-oriented virtual assistant with a passion for helping professionals and entrepreneurs 
-              achieve their goals through exceptional administrative support.
+              Hello! I'm <span className="font-semibold text-rose-600">Princess Ekwueme</span>, a detail-oriented Virtual Executive Assistant and Social Media Manager supporting founders, executives, and business owners. 
+              I streamline schedules, manage communications, and provide precise administrative support, ensuring critical tasks are completed efficiently and on time.
+
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              With a keen eye for organization and a warm, professional approach, I specialize in 
-              transforming chaotic schedules into streamlined systems, managing communications with 
-              grace and efficiency, and providing the kind of support that makes your life easier.
+            I protect executive time through structured calendars, inbox control, documentation,
+             and proactive follow-ups, while maintaining a consistent, professional brand presence online.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              My mission is to be your trusted partner in success, handling the details so you can 
-              focus on growing your business and living your best life. I believe in building genuine 
-              relationships with my clients and delivering work that exceeds expectations.
+            I thrive in remote, high-trust environments, delivering reliable support that allows leaders to focus on growth, 
+            impact, and strategic priorities.
             </p>
           </motion.div>
 

@@ -4,32 +4,42 @@ const services = [
   {
     icon: "📅",
     title: "Calendar & Schedule Management",
-    description: "Keep your schedule organized and optimized. I handle appointments, time blocking, and ensure you never miss an important meeting."
+    description: "Organize and optimize your time. Manage appointments, time blocking, and reminders to ensure no important meeting is missed."
   },
   {
     icon: "📧",
     title: "Email & Inbox Management",
-    description: "Transform your inbox from chaos to clarity. I filter, prioritize, and respond to emails so you can focus on what matters."
+    description: "Transform your inbox from cluttered to clear. Prioritize, filter, and respond to emails so you can focus on high-value tasks."
   },
   {
     icon: "💼",
-    title: "Business Support",
-    description: "From document preparation to research and data entry, I provide comprehensive administrative support for your business needs."
+    title: "Business & Administrative Support",
+    description: "Comprehensive support including document preparation, research, data entry, and reporting to keep your business operations running smoothly."
   },
   {
     icon: "📊",
     title: "Project Coordination",
-    description: "Keep projects on track with organized workflows, deadline management, and seamless coordination between team members."
+    description: "Keep projects on track with structured workflows, deadline management, and seamless collaboration between team members."
   },
   {
     icon: "✈️",
-    title: "Travel Planning",
-    description: "Stress-free travel arrangements including flights, accommodations, and itinerary planning tailored to your preferences."
+    title: "Travel Planning & logistics",
+    description: "Plan stress-free travel including flights, accommodations, and itineraries, tailored to your schedule and preferences."
   },
   {
     icon: "📱",
     title: "Social Media Management",
-    description: "Maintain a consistent online presence with content scheduling, engagement, and community management across platforms."
+    description: "Maintain a professional, consistent online presence through content planning, scheduling, engagement, and community management."
+  },
+  {
+    icon: "📡",
+    title: "Client & Stakeholder Communication",
+    description: "Handle emails, calls, and appointments with professionalism and follow-through to strengthen business relationships."
+  },
+  {
+    icon: "🗃",
+    title: "Reporting & Analytics",
+    description: "Track project progress, social media performance, and operational metrics, providing actionable insights for informed decision-making."
   }
 ];
 

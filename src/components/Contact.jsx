@@ -38,7 +38,9 @@ export default function Contact() {
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-rose-400 to-lavender-400 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Ready to simplify your life? Let's discuss how I can help you achieve your goals.
+          If you’re seeking an Executive Virtual Assistant who can manage operations calmly, protect your time, and maintain your brand’s professionalism, I am available for discovery calls and interviews.
+
+          Let’s discuss how structured support can elevate your day-to-day operations.
           </p>
         </motion.div>
 
@@ -111,10 +113,10 @@ export default function Contact() {
           <div className="mt-8 pt-8 border-t border-rose-200 text-center">
             <p className="text-gray-600 mb-2">Or reach out directly:</p>
             <div className="flex justify-center gap-6">
-              <a href="mailto:hello@princessva.com" className="text-rose-600 hover:text-rose-700 font-medium">
+              <a href="mailto:princess.ekwueme01@gmail.com" className="text-rose-600 hover:text-rose-700 font-medium">
                 📧 Email
               </a>
-              <a href="https://linkedin.com" className="text-rose-600 hover:text-rose-700 font-medium">
+              <a href="http://linkedin.com/in/princessekwueme" className="text-rose-600 hover:text-rose-700 font-medium">
                 💼 LinkedIn
               </a>
             </div>
